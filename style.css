@@ -17,10 +17,14 @@ nav{
 }
 
 .image{
-  width: 10px;
-  height: 10px;
-  background: black;
-  display: inline-block;
+  width: 68px;
+  height: 56px;
+  background: url(./Image/logo.png);
+  position: absolute;
+  margin: 4px 0px 0px 156px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 
 ul li{
@@ -28,4 +32,17 @@ ul li{
   padding: 10px;
   color: black;
   display: inline-block;
+  font-family: 'Roboto', sans-serif;
+  cursor: pointer;
+}
+
+.shop{
+  width: 68px;
+  height: 56px;
+  background: url(./Image/shopping-cart.svg);
+  position: absolute;
+  margin: 4px 0px 0px 1055px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: auto;
 }
