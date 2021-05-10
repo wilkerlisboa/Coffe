@@ -72,7 +72,7 @@ ul li{
   border-radius: 100%;
   position: absolute;
   background: #BB6BD9;
-  margin: 311px 0px 0px 500px;
+  margin: 263px 0px 0px 584px;
   opacity: 0.3;
 }
 
@@ -100,7 +100,7 @@ ul li{
   background: white;
   margin: 9px 0px 0px 37px;
   border-radius: 25px;
-  box-shadow: 0px 0px 10px 8px #a7a7a7
+  box-shadow: 0px 0px 10px 8px #d0d0d078;
 }
 
 #Image_Coffe_01{
@@ -109,6 +109,39 @@ ul li{
   height: 359px;
   position: absolute;
   margin: -244px 0px 0px 75px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#Image_Coffe_02{
+  background: url(./Image/Coffe-02.png);
+  width: 218px;
+  height: 295px;
+  position: absolute;
+  margin: -183px 0px 0px 86px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#Image_Coffe_03{
+  background: url(./Image/Coffe-03.png);
+  width: 218px;
+  height: 295px;
+  position: absolute;
+  margin: -183px 0px 0px 87px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#Image_Coffe_04{
+  background: url(Image/Coffe-04.png);
+  width: 218px;
+  height: 295px;
+  position: absolute;
+  margin: -183px 0px 0px 87px;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
