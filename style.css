@@ -96,7 +96,7 @@ ul li{
 
 .Object01{
   width: 218px;
-  height: 236px;
+  height: 240px;
   background: white;
   margin: 78px 0px 0px 54px;
   border-radius: 7px;
@@ -109,14 +109,14 @@ ul li{
   width: 196px;
   height: 307px;
   position: absolute;
-  margin: -243px 0px 0px 22px;
+  margin: -205px 0px 0px 22px;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .title{
-  margin-top: 70px;
+  margin-top: 111px;
   font-family: 'Roboto';
   text-align: center;
   font-weight: 500;
@@ -144,15 +144,20 @@ ul li{
 }
 
 .value{
-
+  position: absolute;
+  margin: -15px 0px 0px 146px;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 12px;
+  color: #3F3631;
 }
 
 #Image_Coffe_02{
   background: url(./Image/Coffe-02.png);
-  width: 168px;
-  height: 224px;
+  width: 244px;
+  height: 328px;
   position: absolute;
-  margin: -173px 0px 0px 50px;
+  margin: -228px 0px 0px -26px;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -160,10 +165,10 @@ ul li{
 
 #Image_Coffe_03{
   background: url(./Image/Coffe-03.png);
-  width: 168px;
-  height: 224px;
+  width: 244px;
+  height: 328px;
   position: absolute;
-  margin: -173px 0px 0px 50px;
+  margin: -228px 0px 0px -26px;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -171,10 +176,10 @@ ul li{
 
 #Image_Coffe_04{
   background: url(Image/Coffe-04.png);
-  width: 168px;
-  height: 224px;
+  width: 244px;
+  height: 328px;
   position: absolute;
-  margin: -173px 0px 0px 50px;
+  margin: -228px 0px 0px -26px;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -182,10 +187,10 @@ ul li{
 
 #Image_Coffe_05{
   background: url(Image/Coffe-05.png);
-  width: 168px;
-  height: 224px;
+  width: 244px;
+  height: 328px;
   position: absolute;
-  margin: -173px 0px 0px 50px;
+  margin: -228px 0px 0px -26px;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
