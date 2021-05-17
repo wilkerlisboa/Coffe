@@ -96,30 +96,63 @@ ul li{
 
 .Object01{
   width: 218px;
-  height: 218px;
+  height: 236px;
   background: white;
-  margin: 103px 0px 0px 54px;
-  border-radius: 25px;
-  box-shadow: 0px 0px 10px 8px #d0d0d078
+  margin: 78px 0px 0px 54px;
+  border-radius: 7px;
+  box-shadow: 0px 0px 10px 8px #d0d0d078;
+  cursor: pointer;
 }
 
 #Image_Coffe_01{
   background: url(./Image/Coffe\ -01.png);
-  width: 168px;
-  height: 274px;
+  width: 196px;
+  height: 307px;
   position: absolute;
-  margin: -207px 0px 0px 50px;
+  margin: -243px 0px 0px 22px;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
+.title{
+  margin-top: 70px;
+  font-family: 'Roboto';
+  text-align: center;
+  font-weight: 500;
+  font-style: normal;
+  color:#3F3631;
+}
+
+.SubTitle{
+  text-align: center;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+  width: 172px;
+  margin: 4px 0px 0px 24px;
+  color: #9C8E76;
+}
+
+.kit{
+  font-family: 'Roboto';
+  margin: 10px 0px 0px 28px;
+  font-weight: 500;
+  font-size: 12px;
+  color: #3F3631;
+}
+
+.value{
+
+}
+
 #Image_Coffe_02{
   background: url(./Image/Coffe-02.png);
-  width: 202px;
-  height: 274px;
+  width: 168px;
+  height: 224px;
   position: absolute;
-  margin: -207px 0px 0px 16px;
+  margin: -173px 0px 0px 50px;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -127,10 +160,10 @@ ul li{
 
 #Image_Coffe_03{
   background: url(./Image/Coffe-03.png);
-  width: 202px;
-  height: 274px;
+  width: 168px;
+  height: 224px;
   position: absolute;
-  margin: -207px 0px 0px 16px;
+  margin: -173px 0px 0px 50px;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -138,10 +171,10 @@ ul li{
 
 #Image_Coffe_04{
   background: url(Image/Coffe-04.png);
-  width: 202px;
-  height: 274px;
+  width: 168px;
+  height: 224px;
   position: absolute;
-  margin: -207px 0px 0px 16px;
+  margin: -173px 0px 0px 50px;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -149,10 +182,10 @@ ul li{
 
 #Image_Coffe_05{
   background: url(Image/Coffe-05.png);
-  width: 202px;
-  height: 274px;
+  width: 168px;
+  height: 224px;
   position: absolute;
-  margin: -207px 0px 0px 16px;
+  margin: -173px 0px 0px 50px;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
