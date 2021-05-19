@@ -1,6 +1,5 @@
-$('article')
- //Try edit it...
-.on('', () =>
+$('button')
+.on('click', () =>
     window.alert(`Olá Seja Bem Vindo ${nome},  esse apenas um projeto estático para ver mais projetos como esse acesse meu portfólio https://github.com/wilkerlisboa`))
 
 console.log('Funcionou')
