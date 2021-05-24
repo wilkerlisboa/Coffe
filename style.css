@@ -300,7 +300,8 @@ a{
 	}
 
 	ul{
-		position: absolute;
+    position: fixed;
+    z-index: 1;
     width: 100%;
     margin: -18px 0px 0px 121px;
     height: 100vh;
