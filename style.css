@@ -292,13 +292,18 @@ a{
     padding-bottom: 27px;
     overflow-y: scroll;
     align-content: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
   }
 
   .Object01 {
     width: 218px;
     height: 240px;
     background: white;
-    margin: 328px 0px 0px 31px;
+    margin: 328px 0px 0px 0px;
     border-radius: 7px;
     outline: none;
     display: inline-block;
