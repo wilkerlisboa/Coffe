@@ -66,7 +66,7 @@ nav{
 }
 
 ul li{
-  margin: 12px auto;
+  margin: 16px auto;
   padding: 10px;
   color: black;
   display: inline-block;
@@ -326,7 +326,7 @@ a{
     width: 100%;
     margin: -18px 0px 0px 121px;
     height: 100vh;
-    background: #1d075f;
+    background: #9c8e76;
     top: 80px;
     right: -100%;
     text-align: left;
