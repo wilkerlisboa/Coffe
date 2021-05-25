@@ -222,7 +222,7 @@ a{
   background-size: cover;
 }
 
-@media (max-width: 858px){
+@media screen and (max-width: 600px){
   body{
     overflow-x: hidden;
     overflow-y: hidden;
