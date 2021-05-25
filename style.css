@@ -264,7 +264,7 @@ a{
     height: 56px;
     background: url(./Image/logo.png);
     position: absolute;
-    margin: 9px 0px 0px -134px;
+    margin: 9px 0px 0px -196px;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: auto;
@@ -286,17 +286,17 @@ a{
 
   .coffe {
     width: 100%;
-    height: 559px;
-    margin: 65px 0px 0px 0px;
+    height: 517px;
+    margin: 28px 0px 0px 0px;
     position: absolute;
-    padding-bottom: 27px;
+    padding-bottom: 27%;
     overflow-y: scroll;
     align-content: center;
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
     justify-content: flex-start;
-    align-items: center;
+    align-items: center
   }
 
   .Object01 {
@@ -337,6 +337,18 @@ a{
     text-align: left;
     transition: all .5s;
 	}
+
+  nav{
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: baseline;
+  }
 
 	nav ul li{
     display: block;
